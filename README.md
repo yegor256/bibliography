@@ -1,6 +1,7 @@
 # My Personal BibTeX Bibliography
 
 [![bibcop](https://github.com/yegor256/bibliography/actions/workflows/bibcop.yml/badge.svg)](https://github.com/yegor256/bibliography/actions/workflows/bibcop.yml)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/bibliography/blob/master/LICENSE.txt)
 
 If you want to use it too, just add it as a Git [submodule][submodule]
 to your repo:
