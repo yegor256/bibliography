@@ -2,7 +2,7 @@
 
 [![bibcop](https://github.com/yegor256/bibliography/actions/workflows/bibcop.yml/badge.svg)](https://github.com/yegor256/bibliography/actions/workflows/bibcop.yml)
 
-If you want to use it too, just add it as a Git submodule
+If you want to use it too, just add it as a Git [submodule][submodule]
 to your repo:
 
 ```bash
@@ -22,3 +22,4 @@ in almost all my lecture notes, including:
 * [Pain of OOP](https://github.com/yegor256/sqm)
 
 [bib]: https://raw.githubusercontent.com/yegor256/bibliography/refs/heads/master/main.bib
+[submodule]: https://git-scm.com/book/en/v2/Git-Tools-Submodules
