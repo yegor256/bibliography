@@ -15,4 +15,7 @@ They, use it in the `.tex` file:
 \bibliography{bibliography/main.bib}
 ```
 
-Should work.
+I'm using this `main.bib` file in almost all my lecture notes, including:
+
+* [Software Quality Metrics (SQM)](https://github.com/yegor256/sqm)
+* [Pain of OOP](https://github.com/yegor256/sqm)
