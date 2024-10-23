@@ -19,7 +19,9 @@ They, use it in the `.tex` file:
 I'm using this [`main.bib`][bib] file in almost all my lecture notes, including:
 
 * [Software Quality Metrics (SQM)](https://github.com/yegor256/sqm)
-* [Pain of OOP](https://github.com/yegor256/sqm)
+* [Pain of OOP](https://github.com/yegor256/painofoop)
+* [Open Source Best Practices](https://github.com/yegor256/osbp)
+* [Practical Program Analysis](https://github.com/yegor256/ppa)
 
 [bib]: https://raw.githubusercontent.com/yegor256/bibliography/refs/heads/master/main.bib
 [submodule]: https://git-scm.com/book/en/v2/Git-Tools-Submodules
