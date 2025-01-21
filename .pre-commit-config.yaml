@@ -33,3 +33,12 @@ repos:
     hooks:
     -   id: oxipng
         args: ["-o", "4", "--strip", "safe", "--alpha"]
+-   repo: https://github.com/gitleaks/gitleaks
+    rev: v8.23.1
+    hooks:
+    -   id: gitleaks
+-   repo: https://github.com/thoughtworks/talisman
+    rev: 'v1.32.0'
+    hooks:
+    -   id: talisman-commit
+        entry: cmd --githook pre-commit
