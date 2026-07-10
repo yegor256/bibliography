@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: Copyright (c) 2024-2026 Yegor Bugayenko
+# SPDX-License-Identifier: MIT
+
+[default.extend-words]
+abd = "abd"
+alo = "alo"
+cleary = "cleary"
+dingee = "dingee"
+lok = "lok"
+ond = "ond"
+packt = "packt"
+sherif = "sherif"
+tung = "tung"
+tunnell = "tunnell"
